@@ -17,7 +17,7 @@ import time
 import board
 import  digitalio
 import busio
-import adafruit_ds3231
+import adafruit_pcf8523
 #import audioio
 #import pwmio
 from adafruit_debouncer import Debouncer
